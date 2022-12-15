@@ -4,7 +4,7 @@ This project demonstrates how you can create and deploy your own token on the So
 
 ## Tools:
 
-- [Solana SDK](https://portal.web3sdk.io/solana): To deploy the token with metadata.
+- [Solana SDK](https://docs.web3sdk.io/solana): To deploy the token with metadata.
 
 ## Using This Template
 
@@ -48,4 +48,4 @@ const supply = await token.totalSupply();
 
 ## Join our Discord!
 
-For any questions or suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions or suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).

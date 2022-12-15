@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@web3sdkio/sdk": "^3",
+    "@web3sdkio/sdk": "^1.0.12",
     "dotenv": "^16.0.2"
   }
 }
